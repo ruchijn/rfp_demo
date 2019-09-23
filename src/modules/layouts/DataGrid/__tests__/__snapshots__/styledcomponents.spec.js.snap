@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DataGridContainer /> renders correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 80%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 5rem auto;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+<div
+  className="c0"
+>
+  Wrapper for data grid
+</div>
+`;
+
+exports[`<FetchDataButton /> renders correctly 1`] = `
+.c0 {
+  border: 1px solid #767676;
+  padding: 1rem 2rem;
+}
+
+<button
+  className="c0"
+>
+  This is the button
+</button>
+`;
+
+exports[`<FetchDataButtonWrapper /> renders correctly 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+<div
+  className="c0"
+>
+  this is button wrapper
+</div>
+`;
+
+exports[`<RatesCol /> renders correctly 1`] = `
+.c0 {
+  -webkit-flex: 1 1 50%;
+  -ms-flex: 1 1 50%;
+  flex: 1 1 50%;
+  padding: 0.5rem 1rem;
+}
+
+<div
+  className="c0"
+>
+  each column of data
+</div>
+`;
+
+exports[`<RatesRow /> renders correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  border-bottom: 1px solid #767676;
+}
+
+<div
+  className="c0"
+>
+  each row of data
+</div>
+`;
+
+exports[`<RatesWrapper /> renders correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border: 1px solid #767676;
+}
+
+.c0:last-child {
+  border-bottom: none;
+}
+
+<div
+  className="c0"
+>
+  wrapper for data table
+</div>
+`;
+
+exports[`<Text /> renders correctly 1`] = `
+.c0 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+<p
+  className="c0"
+>
+  link
+</p>
+`;
+
+exports[`<TextWrapper /> renders correctly 1`] = `
+.c0 {
+  margin-top: 1rem;
+}
+
+<div
+  className="c0"
+>
+  this is wrapper for text
+</div>
+`;
+
+exports[`<TopInformationSection /> renders correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@media screen and (min-width:992px) {
+  .c0 {
+    -webkit-flex: 1 1 50%;
+    -ms-flex: 1 1 50%;
+    flex: 1 1 50%;
+  }
+}
+
+<div
+  className="c0"
+>
+  section for top row
+</div>
+`;
+
+exports[`<TopInformationWrapper /> renders correctly 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media screen and (min-width:992px) {
+  .c0 {
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+<div
+  className="c0"
+>
+  this is top row wrapper
+</div>
+`;

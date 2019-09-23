@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DataGrid /> matches the snapshot 1`] = `
+<styledComponents__DataGridContainer>
+  <styledComponents__FetchDataButtonWrapper>
+    <styledComponents__FetchDataButton
+      onClick={[Function]}
+    >
+      Click me to get data
+    </styledComponents__FetchDataButton>
+  </styledComponents__FetchDataButtonWrapper>
+  <styledComponents__TextWrapper>
+    <styledComponents__Text
+      color="regular"
+    >
+      Please click on button to get the conversion rates
+    </styledComponents__Text>
+  </styledComponents__TextWrapper>
+</styledComponents__DataGridContainer>
+`;
